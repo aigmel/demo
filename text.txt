@@ -1,0 +1,4 @@
+Šobrīd SKLOIS funkcionalitātei ir novērojamas problēmas ar Firefox jaunākām versijām.
+Datu iesūtīšanas logs ātri parādās un pazūd.
+Lūgums līdz problēmas risinājumam izmantot Google Chrome vai Microsoft Edge pārlūkprogrammas.
+Atvainojamies par sagādātajām neērtībām!

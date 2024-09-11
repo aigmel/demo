@@ -1,4 +1,4 @@
-Šobrīd SKLOIS funkcionalitātei ir novērojamas problēmas ar Firefox jaunākām versijām.
-Datu iesūtīšanas logs ātri parādās un pazūd.
-Lūgums līdz problēmas risinājumam izmantot Google Chrome vai Microsoft Edge pārlūkprogrammas.
-Atvainojamies par sagādātajām neērtībām!
+Atgādinājums par kuģu atkritumu nodošanas kvītīm
+Saskaņā ar 2022. gada 22. marta Ministru Kabineta noteikumu Nr. 193 „Kuģu atkritumu pieņemšanas kārtība un kuģu atkritumu apsaimniekošanas plānu izstrādes kārtība” (turpmāk – noteikumi), 52. punktu, kuģa aģents vai, ja tāda nav, kuģošanas kompānija vai kuģa kapteinis, pirms kuģis atstāj ostu vai tiklīdz ir saņemta atkritumu nodošanas kvīts, iesniedz Starptautiskajā kravu loģistikas un ostu informācijas sistēmā (turpmāk – SKLOIS sistēma) atkritumu nodošanas kvīts informāciju.
+
+Lūdzam Jūs īpaši pievērst uzmanību, ka ar šī gada janvāri kuģu atkritumu kvītu informāciju ir obligāti jāievada SKLOIS sistēmā atbilstoši šo noteikumu prasībām. Ņemot vērā, ka pastāv iespējamība, ka kādi no lietotājiem nav informēti, ka SKLOIS sistēmā ar šī gada sākumu ir pieejama jauna sadaļa, kur šo informāciju var ievadīt, Valsts vides dienests lūdz pievērst šīm prasībām īpašu uzmanību un atgādina, ka par šo noteikumu prasību neievērošanu, Valsts vides dienests var uzsākt administratīvā pārkāpuma procesu kā arī sniegt negatīvu atzinumu par kuģu aģentēšanas komercsabiedrības profesionālo darbību, kas varētu liegt aģentūrai sniegt kuģu aģentēšanas pakalpojumus.
